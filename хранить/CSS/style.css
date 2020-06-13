@@ -319,8 +319,8 @@ body{
     background: linear-gradient(to right,#182b3c,#16182d);
     color: white;
     text-align: justify;
-    border: 5px solid black;
-    border-radius: 10px;
+    
+    
     padding: 10px;
     margin-top: 15px;
 }
